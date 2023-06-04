@@ -1,0 +1,34 @@
+TEK PARAMETRELİ
+
+# Linear Reg
+R-squared (uncentered):                   0.942
+
+# Poly
+R-squared (uncentered):                   0.810
+
+# SVR
+R-squared (uncentered):                   0.770
+
+# Decision
+R-squared (uncentered):                   0.751
+
+# Random Forest
+R-squared (uncentered):                   0.719
+
+--------------------------------------------------------------------
+3 PARAMETRELİ
+
+# Linear Reg
+R-squared (uncentered):                   0.903
+
+# Poly
+R-squared (uncentered):                   0.729
+
+# SVR
+R-squared (uncentered):                   0.782
+
+# Decision
+R-squared (uncentered):                   0.679
+
+# Random Forest
+R-squared (uncentered):                   0.713
